@@ -1,0 +1,5 @@
+*.dSYM
+*.crash
+*/.DS_Store
+.DS_Store
+
